@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      Devil's Beanbag
+    </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="header">
+      <img src="Untitled.jpg" >
+      <h1>
+        Devil's Beanbag
+      </h1>
+      <p>
+        The home of new games and articles
+      </p>
+    </div>
+
+    <div class="navbar">
+      <a href="ac.html"
+         class="right">
+        Awards
+      </a>
+      <a href="rc.html"
+         class="right">
+        Resources
+      </a>
+      <a href="index.html"
+         class="">
+        Home
+      </a>
+    </div>
+
+    <div class="row">
+      <div class="side">
+
+      </div>
+      <div class="main">
+        <h1>GAME OF THE WEEK</h1>
+        <p>The game of the week goes to the game that we feel at CodeDuo is the best game.</p>
+        <br>
+        <br>
+        <br>
+        <p>We did'nt have any votes for the game of the week, but I picked the game that I thought I played the most and the one I thought was the best.</p>
+        <br>
+        <br>
+        <br>
+        <p>This week, the award goes to Super Fowlst.</p>
+        <br>
+        <br>
+        <br>
+        <p>This game has many fun mechanics, the game puts you as a chicken in a world with many creatures tying to kill you, but you need to watch out for demons of many kinds. Use power-ups to your advantage and use the coins you collect to unlock characters.</p>
+        <br>
+        <br>
+        <br>
+        <a href = "https://sites.google.com/site/unblockedgame76/super-fowlst">
+          <button>
+            Play Super Fowlst Here!
+          </button>
+        </a>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>
+        2022 CodeDuo 
+      </p>
+      <p>
+        2022 EASIE GAMES No Rights Reserved. (Yet)
+      </p>
+    </div>
+
+  </body>
+</html>
